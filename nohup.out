@@ -1,0 +1,17 @@
+Configuration file: /vagrant/blog/_config.yml
+            Source: /vagrant/blog
+       Destination: /vagrant/blog/_site
+      Generating... done.
+    Server address: http://0.0.0.0:4000
+  Server running... press ctrl-c to stop.
+Configuration file: /vagrant/blog/_config.yml
+            Source: /vagrant/blog
+       Destination: /vagrant/blog/_site
+      Generating... done.
+    Server address: http://0.0.0.0:4000
+  Server running... press ctrl-c to stop.
+Configuration file: /vagrant/blog/_config.yml
+            Source: /vagrant/blog
+       Destination: /vagrant/blog/_site
+      Generating... done.
+error: Address already in use - bind(2). Use --trace to view backtrace
