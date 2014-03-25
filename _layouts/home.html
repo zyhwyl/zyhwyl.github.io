@@ -2,14 +2,6 @@
 <html>
 <head>
 {% include head.html %}
-<style type="text/css">
-.avatar{border-radius:100px;width:90px;position:relative;top:-10px;}
-.shadow_all_blur{s-moz-box-shadow:0 0 9px #fff;-webkit-box-shadow:0 0 9px #fff;box-shadow:0 0 9px #eee;}
-.shadow_all{s-moz-box-shadow:0 0 9px #555;-webkit-box-shadow:0 0 9px #555;box-shadow:0 0 9px #555;}  
-.shadow_all_in{s-moz-box-shadow:0 0 9px #555;-webkit-box-shadow:0 0 9px #555;box-shadow:0 0 9px #555;}                  
-.shadow_light{s-moz-box-shadow:0 0 1px #555;-webkit-box-shadow:0 0 1px #555;box-shadow:0 0 7px #888;}
-.shadow_all_white{s-moz-box-shadow:0 0 9px #fff;-webkit-box-shadow:0 0 9px #fff;box-shadow:0 0 9px #fff;}     
-</style>
 </head>
 <body class="home-template" itemscope itemtype="http://schema.org/WebPage">
 {% if page.image.feature %}<header id="masthead" class="blog-background overlay align-center align-middle animated from-bottom"  style="background-image: url({{ site.url }}/images/{{ page.image.feature }})" itemscope itemtype="http://schema.org/Organization">
@@ -39,7 +31,6 @@
             <h1 class="blog-title light" itemprop="name">
                 {{ site.title }}
             </h1>
-                
             </a>
         </div>
     </div>

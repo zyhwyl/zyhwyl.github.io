@@ -14,18 +14,19 @@ animated_fins:	  true
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://zyhwyl.github.io/blog
+# url:            
 
 # Owner/author information
 owner:
   name:           SilverZhang
-  avatar:         hmfaysal.jpg
+  avatar:         avatar.jpg
   email:          zyh19880605@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
   github:         zyhwyl
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-7
+google_analytics:   
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -37,12 +38,12 @@ links:
     url: /
     external: false
     icon: home
-  - title: Categories
+  - title: 分类
     url: /categories
-  - title: Tags
+  - title: 标签
     url: /tags
-  - title: About Me
-    url: /about
+  - title: 关于我
+    url: /aboutme
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    China/Beijing
