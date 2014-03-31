@@ -16,8 +16,8 @@ share: true
 {% highlight ruby linenos %}
 <VirtualHost *:80>
         ServerAdmin webmaster@localhost
-        ServerName ball.silverzhang.info
-        ServerAlias ball.silverzhang.info
+        ServerName test.test.com
+        ServerAlias test.test.com
 
         ProxyRequests off
     <Proxy *>
