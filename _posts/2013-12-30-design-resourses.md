@@ -117,3 +117,7 @@ http://askubuntu.com/questions/183775/how-do-i-open-a-terminal （键盘操作�
 ##UI框架：
 
 http://www.keenthemes.com/preview/metronic_admin/# METRONIC
+
+##开源：
+
+http://mycolorway.github.io/simditor/demo.html (tower编辑器)
