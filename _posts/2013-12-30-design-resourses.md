@@ -121,3 +121,11 @@ http://www.keenthemes.com/preview/metronic_admin/# METRONIC
 ##开源：
 
 http://mycolorway.github.io/simditor/demo.html (tower编辑器)
+
+##前端自动化：
+
+http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/
+
+http://gulpjs.com/（Grunt 的替代产品，据说很好用，相比Grunt ）
+
+http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/（Grunt 与 Gulp 比较）
